@@ -1,0 +1,29 @@
+.table-style{
+    background-color: #05134b; 
+    color: aliceblue; 
+    border-color: aliceblue; 
+}
+
+.table-style:hover{
+    color: #941dc9;
+    cursor: pointer;
+    border-color: #941dc9;
+}
+
+
+
+.card-style{
+    background-color: #05134b; 
+    border-style: none;
+}
+
+
+.table-card{
+    background-color: #05134b; 
+    color: aliceblue; 
+    border-style: none;
+}
+
+a:hover{
+    opacity: 0.6;
+}
